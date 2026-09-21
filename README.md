@@ -38,4 +38,4 @@
 `tapply()`, `aggregate()`, `filter()`, `mutate()`,
 `group_by()` и `summarize()`.
 
-👉 [Открыть проект](./ToothGrowth_analysis)
+👉 [Открыть проект](./ToothGrowth_analysis.r)
