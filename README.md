@@ -55,4 +55,4 @@
 
 **Стек:** `R`, `sf`, `spdep`, `spatialreg`, `rgeoda`, `tmap`, `lmtest`, `stargazer`
 
-🔗 [Смотреть код](./RegioRussia.r)
+🔗 [Открыть проект](./RegionRussia.r)
